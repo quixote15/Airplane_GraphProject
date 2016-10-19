@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Airline</string>
+    <string name="introducao">Olá, meu nome é Leila! Eu sou a aeromoça do voo! Vamos voar juntos?</string>
+    <string name="hist_1">blabla</string>
+    <string name="hist_2">blabla</string>
+    <string-array name="cidades">
+        <item>Aracaju</item>
+        <item>Brasília</item>
+        <item>Guarulhos(SP)</item>
+        <item>Congonhas(CGH)</item>
+        <item>Galeão(RJ)</item>
+        <item>Santos Dummont(RJ)</item>
+        <item>Curitiba(Cwb)</item>
+        <item>Porto Alegre(POA)</item>
+        <item>Salvador(SSA)</item>
+        <item>Recife(Rec)</item>
+        <item>Petrolina(Pnz)</item>
+        <item>Goiânia(GYN)</item>
+        <item>Juazeiro do norte(DJO)</item>
+        <item>Maceio(MCZ)</item>
+        <item>Joao Pessoa(JPO)</item>
+        <item>Xapecó(Xap)</item>
+    </string-array>
+</resources>
